@@ -1,3 +1,5 @@
+    线上发现crash，代码实现发送crash日志
+    
     Author: Andreas Linde <mail@andreaslinde.de>
 
     Copyright (c) 2009-2014 Andreas Linde.
